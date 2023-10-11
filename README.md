@@ -1,4 +1,4 @@
-![header](https://github.com/bopool/HelloKids/blob/master/app/src/main/res/drawable-v24/git_top.jpg)
+![header](https://github.com/YeojinSon7/aws-hellokids-api/assets/130967465/2d020f74-7afa-4354-8593-6cd16d2f746b)
 
 # HelloKids
 HelloKids(헬로키즈) 앱의 백엔드 개발 내용을 보실 수 있습니다. <a href= "https://github.com/YeojinSon7/HelloKids">프론트엔드 보러가기</a><br/><br/>
