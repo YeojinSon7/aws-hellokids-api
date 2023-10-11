@@ -1,9 +1,9 @@
-![header](https://github.com/YeojinSon7/aws-hellokids-api/assets/130967465/2d020f74-7afa-4354-8593-6cd16d2f746b)
+![header](./image/git_top.jpg)
 
 # HelloKids
 HelloKids(헬로키즈) 앱의 백엔드 개발 내용을 보실 수 있습니다. <a href= "https://github.com/YeojinSon7/HelloKids">프론트엔드 보러가기</a><br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><br/><br/>
-<img src="https://github.com/bopool/HelloKids/blob/master/app/src/main/res/drawable-v24/hellokidsmainmovie1.gif"/><br/><br/><br/>
+<img src="./image/hellokidsmainmovie1.gif"/><br/><br/><br/>
 
 ## 사용한 기술
 ### Back-ends
@@ -47,7 +47,7 @@ HelloKids(헬로키즈) 앱의 백엔드 개발 내용을 보실 수 있습니�
 * HelloKids(헬로키즈)는 선생님에게는 효율적인 원아관리를 <br/>
 학부모님에게는 자녀의 어린이집 활동을 잘 파악할 수 있는 편리한 기능을 제공합니다. <br/>
 <a href= "https://drive.google.com/file/d/1YFZsn_9-0wchzUDaHK6vHVRebC9xKlDY/view">[프로젝트 소개 프리젠테이션 문서 보러 가기]</a><br/>
-<img src="https://github.com/YeojinSon7/aws-hellokids-api/assets/130967465/451ec739-5dca-4e31-b824-2aec45a84060"  width="700" height="387" /><br/><br/>
+<img src="./image/mainpic.PNG"  width="700" height="387" /><br/><br/>
 
 ##  프로젝트 일정
 | Week | 진행 내용 |
